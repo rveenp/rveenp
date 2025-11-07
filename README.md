@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rveenp
+- 👋 Hi, I’m @Poushand
 - 👀 I’m interested in aerospace engineering
 - 🌱 I’m currently learning cfd
 - 💞️ I’m looking to collaborate on cfd
